@@ -58,11 +58,21 @@ Health-Diagnosis-System/
 
 ---
 
-## 👨‍💻 Developed By:
-- Haripriya Mahajan   
-- Anjali Patel
-- Aditya Garg 
-- Nitish Kumar
+
+## 🙋‍♀️ Contributors
+This is a collaborative group project by passionate undergraduates from LNCT College, addressing real-world energy forecasting challenges using ML.
+
+- Haripriya Mahajan (Backend & Model Development)
+-- GitHub: https://github.com/Haripriya-Mahajan
+
+- Aditya Garg (Backend & Model Development)
+-- GitHub: https://github.com/Adiigarg07
+
+- Nitish Kumar (Frontend with Streamlit)
+-- GitHub: https://github.com/nitishkumar1407
+
+- Anjali Patel (Frontend with Streamlit)
+-- GitHub: https://github.com/anjalip2623
 
 ---
 
