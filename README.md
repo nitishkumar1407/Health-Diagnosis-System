@@ -33,10 +33,6 @@ Make sure you have Python installed, then install the required libraries:
 pip install pandas numpy scikit-learn matplotlib
 ```
 
-### 3. Run the Application:
-```bash
-python main.py
-```
 
 ---
 
