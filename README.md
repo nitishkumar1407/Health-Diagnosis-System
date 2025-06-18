@@ -57,24 +57,19 @@ Health-Diagnosis-System/
 ```
 
 ---
-
-
 ## 🙋‍♀️ Contributors
-This is a collaborative group project by passionate undergraduates from LNCT College, addressing real-world energy forecasting challenges using ML.
 
-- Haripriya Mahajan 
--- GitHub: https://github.com/Haripriya-Mahajan
+- Haripriya Mahajan (Backend & Model Development)
+-- Linkedin: https://www.linkedin.com/in/haripriya-mahajan/
 
-- Aditya Garg 
--- GitHub: https://github.com/Adiigarg07
+- Aditya Garg (Backend & Model Development)
+-- Linkedin: https://www.linkedin.com/in/adityagarg3434/
 
-- Nitish Kumar 
--- GitHub: https://github.com/nitishkumar1407
+- Nitish Kumar (Frontend with Streamlit)
+-- Linkedin: https://www.linkedin.com/in/nitish07kumar/
 
-- Anjali Patel 
--- GitHub: https://github.com/anjalip2623
-
----
+- Anjali Patel (Frontend with Streamlit)
+-- Linkedin: https://www.linkedin.com/in/anjali-patel-42b796348/
 
 ## 📌 Note:
 > This project is intended for educational purposes and not for real medical diagnosis. Always consult a healthcare professional for accurate diagnosis and treatment.
