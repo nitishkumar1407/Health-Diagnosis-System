@@ -59,16 +59,16 @@ Health-Diagnosis-System/
 ---
 ## 🙋‍♀️ Contributors
 
-- Haripriya Mahajan (Backend & Model Development)
+- Haripriya Mahajan 
 -- Linkedin: https://www.linkedin.com/in/haripriya-mahajan/
 
-- Aditya Garg (Backend & Model Development)
+- Aditya Garg 
 -- Linkedin: https://www.linkedin.com/in/adityagarg3434/
 
-- Nitish Kumar (Frontend with Streamlit)
+- Nitish Kumar 
 -- Linkedin: https://www.linkedin.com/in/nitish07kumar/
 
-- Anjali Patel (Frontend with Streamlit)
+- Anjali Patel 
 -- Linkedin: https://www.linkedin.com/in/anjali-patel-42b796348/
 
 ## 📌 Note:
