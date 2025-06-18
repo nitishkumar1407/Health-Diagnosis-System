@@ -59,7 +59,7 @@ Health-Diagnosis-System/
 ---
 
 ## 👨‍💻 Developed By:
-- HariPriya Mahajan   
+- Haripriya Mahajan   
 - Anjali Patel
 - Aditya Garg 
 - Nitish Kumar
